@@ -3,13 +3,13 @@
   "name": "SMARTLAGER",
   "icons": [
     {
-      "src": "https://github.com/mortezabasati-source/inventory_system/blob/main/logo.png?raw=true",
+      "src": "https://raw.githubusercontent.com/mortezabasati-source/inventory_system/main/logo.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "https://github.com/mortezabasati-source/inventory_system/blob/main/logo.png?raw=true",
+      "src": "https://raw.githubusercontent.com/mortezabasati-source/inventory_system/main/logo.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
